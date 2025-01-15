@@ -6,7 +6,7 @@ Para executar qualquer arquivo dos desafios, abra o terminal ou prompt de comand
 Exemplo para executar o arquivo `desafio1.js`:
 
 ```bash
-node desafio1.js
+node desafio01.js
 ```
 
 Isso irá rodar o código e mostrar os resultados no terminal.
